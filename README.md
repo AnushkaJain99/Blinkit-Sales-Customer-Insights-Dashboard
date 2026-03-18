@@ -48,7 +48,7 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-[Dashboard Screenshot](https://github.com/AnushkaJain99/Blinkit-Sales-Customer-Insights-Dashboard/blob/main/blinkit.png)
+(https://github.com/AnushkaJain99/Blinkit-Sales-Customer-Insights-Dashboard/blob/main/blinkit.png)
 
 ---
 
